@@ -211,7 +211,7 @@ header {
     color: #222222;
 }
 .mobile {
-    background: url('/img/mobile_bg.png') center center/ cover no-repeat;
+    background: url('../img/mobile_bg.png') center center/ cover no-repeat;
 	height: 915px;
 	width: 100%;
     margin-top: 90px;
@@ -304,7 +304,7 @@ header {
 	}
 }
 .choice {
-	background: url('/img/mobile_bg.png')center center/ cover no-repeat;
+	background: url('../img/mobile_bg.png')center center/ cover no-repeat;
 	height: 900px;
 	padding-bottom: 137px;
 	.black {
@@ -368,7 +368,7 @@ header {
 			padding-left: 45px;
 		&:before {
 			content:'';
-			background-image: url('/icons/check_blue\ 1.png');
+			background-image: url('../icons/check_blue\ 1.png');
 			display: inline-block;
 			width: 21px;
 			height: 20px;
@@ -387,7 +387,7 @@ header {
 	&_list_red {
 		li {
 			&:before {
-				background-image: url('/icons/check_red\ 1.png');
+				background-image: url('../icons/check_red\ 1.png');
 			}
 		}
 	}
